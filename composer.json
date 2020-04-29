@@ -1,0 +1,21 @@
+{
+  "name": "oyjz/webcopy",
+  "description": "WebCopy is a free tool for copying full or partial websites locally onto your harddisk for offline viewing.",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "webcopy\\": "src"
+    }
+  },
+  "homepage": "http://www.oyjz.cn/",
+  "license": "MIT"
+}
